@@ -8,7 +8,7 @@
    - Consultez votre boîte mail et cliquez sur le lien de vérification envoyé par GitHub.
 3. Explorez l'interface GitHub :
    - Familiarisez-vous avec les onglets comme **Repositories** et **Pull requests**.
-\
+<br/><br/>
 ## Partie 2 : Question d’introduction
 ### Question : Rechercher et expliquer ce que c’est le contrôle de version
 Le contrôle de version est un système qui permet de suivre, gérer et enregistrer les modifications apportées à un fichier ou un ensemble de fichiers.
