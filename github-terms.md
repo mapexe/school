@@ -7,7 +7,7 @@
 2. Vérifiez votre adresse e-mail :
    - Consultez votre boîte mail et cliquez sur le lien de vérification envoyé par GitHub.
 3. Explorez l'interface GitHub :
-   - Familiarisez-vous avec les onglets comme **Repositories** et **Pull requests**.
+   - Familiarisez-vous avec les onglets comme **Repositories** et **Pull requests**.  
 
 
 ## Partie 2 : Question d’introduction
