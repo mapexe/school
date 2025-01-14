@@ -1,5 +1,6 @@
 # Activité d'introduction à GitHub
 
+
 ## Partie 1 : Créez un compte GitHub
 1. Allez à [https://github.com](https://github.com) et créez un compte.
    - **Nom d'utilisateur** : Choisissez un nom facile à retenir.
@@ -11,11 +12,13 @@
 
 ---
 
+
 ## Partie 2 : Question d’introduction
 ### Question : Rechercher et expliquer ce que c’est le contrôle de version
 Le contrôle de version est un système qui permet de suivre, gérer et enregistrer les modifications apportées à un fichier ou un ensemble de fichiers.
 
 ---
+
 
 ## Partie 3 : Chasse aux termes GitHub
 Voici une liste de termes clés à définir. Faites des recherches et écrivez les définitions avec vos propres mots.
@@ -48,6 +51,7 @@ Voici une liste de termes clés à définir. Faites des recherches et écrivez l
 
 ---
 
+
 ## Partie 4 : Créer un fichier
 ### Pourquoi pensez-vous que le contrôle de version est important dans le développement logiciel ?
 - Pour sauvegarder des changements.
@@ -57,6 +61,7 @@ Voici une liste de termes clés à définir. Faites des recherches et écrivez l
 ### Comment GitHub peut-il vous aider à collaborer sur des projets de codage ?
 - **Gestion des contributions** : Tout le monde peut contribuer et modifier sans conflits de fichier.
 - **Centralisation du projet** : Tout le projet est dans un seul endroit.
+
 
 ### Tâches :
 1. Créez un nouveau repository dans votre compte GitHub.
