@@ -15,7 +15,7 @@ Le contrôle de version est un système qui permet de suivre, gérer et enregist
 <br/><br/>
 ## Partie 3 : Chasse aux termes GitHub
 Voici une liste de termes clés à définir. Faites des recherches et écrivez les définitions avec vos propres mots.
-<br/><br/>
+
 ### Termes à définir :
 1. **Repository**  
    Définition : Un espace où le code source est stocké et géré.
@@ -41,9 +41,7 @@ Voici une liste de termes clés à définir. Faites des recherches et écrivez l
     Définition : Un système de gestion de version.
 12. **Version Control**  
     Définition : Suivi des modifications apportées au code.
-
----
-
+<br/><br/>
 ## Partie 4 : Créer un fichier
 ### Pourquoi pensez-vous que le contrôle de version est important dans le développement logiciel ?
 - Pour sauvegarder des changements.
@@ -53,7 +51,6 @@ Voici une liste de termes clés à définir. Faites des recherches et écrivez l
 ### Comment GitHub peut-il vous aider à collaborer sur des projets de codage ?
 - **Gestion des contributions** : Tout le monde peut contribuer et modifier sans conflits de fichier.
 - **Centralisation du projet** : Tout le projet est dans un seul endroit.
-
 
 ### Tâches :
 1. Créez un nouveau repository dans votre compte GitHub.
